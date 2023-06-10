@@ -7,7 +7,7 @@
 
 ![image](https://github.com/mabrunhara/RayCastAlien/assets/101645820/7be7b0a4-2207-491b-9f8e-ff117d383c2d)
 
-Usamos esferas com texturas para possuírem aparência dos planetas, e organizamos em fileira usando gravidade para que estas caíssem em ordem conforme a cena acontece. As texturas das colunas, paredes e o alien foram importados da loja do Unity.
+Usamos esferas com texturas para possuírem aparência de planetas, e organizamos os alvos em fileira usando gravidade para que estas caíssem em ordem conforme a cena acontece. As texturas das colunas, paredes e o alienígena foram importados da loja do Unity.
 
 ![image](https://github.com/mabrunhara/RayCastAlien/assets/101645820/9afe6a00-3f7b-461e-a84c-e952c17d6a1a)
 
