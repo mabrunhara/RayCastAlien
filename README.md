@@ -3,6 +3,9 @@
 ## O jogo desenvolvido constitui em um universo com aliens e planetas, onde o jogador deve atingir os planetas através da função Raycast.
 ## Usamos o seguinte script para que o raio seja lançado cada vez que o jogador clique nos planetas.
 
+![image](https://github.com/mabrunhara/RayCastAlien/assets/101645820/7be7b0a4-2207-491b-9f8e-ff117d383c2d)
+
+
 ![image](https://github.com/mabrunhara/RayCastAlien/assets/101645820/9afe6a00-3f7b-461e-a84c-e952c17d6a1a)
 
 
